@@ -19,7 +19,7 @@ int main(){
         scanf("%d", &mt[i][2]);
 
     //sorting
-    for(i=0; i<n-2; i++){
+    for(i=0; i<n; i++){
         for(j=i+1; j<n; j++){
             if(mt[i][1]>mt[j][1]){
                 for(k=0; k<=6; k++){
