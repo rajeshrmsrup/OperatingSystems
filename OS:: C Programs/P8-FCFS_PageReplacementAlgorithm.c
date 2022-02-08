@@ -1,5 +1,5 @@
 //Program to implement FCFS Page replacement Algorithm.
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
     int n, i, j, p_Flts=0, frms;
