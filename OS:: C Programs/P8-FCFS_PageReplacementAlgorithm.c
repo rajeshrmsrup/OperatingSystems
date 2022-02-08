@@ -75,7 +75,6 @@ Enter the number of frames: 3
 |-1|	| 7|	| 7|	| 7|	| 7|	| 7|	| 7|	| 2|	| 2|	| 2|
 | 4|	| 4|	| 4|	| 1|	| 1|	| 1|	| 1|	| 1|	| 1|	| 1|
 
-
 Total Page Faults: 6
 Total number of Hit = 4
 
